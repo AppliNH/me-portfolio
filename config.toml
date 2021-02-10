@@ -79,7 +79,7 @@ preloader = "images/preloader.gif" # use jpg, png, svg or gif format.
 
 [[params.social]]
 icon = "fab fa-twitter"
-link = "https://twitter.com/somratpro"
+link = "https://twitter.com/appli_prmtv"
 
 [[params.social]]
 icon = "fab fa-github"
@@ -87,7 +87,7 @@ link = "https://github.com/applinh"
 
 [[params.social]]
 icon = "fab fa-linkedin"
-link = "https://www.linkedin.com/in/somratpro"
+link = "https://www.linkedin.com/in/tmartin-me/"
 
 
 ################################### English language #####################################
@@ -127,22 +127,22 @@ pre = "#"
 url = "portfolio"
 weight = 4
 
-[[Languages.en.menu.main]]
-name = "Testimonial"
-pre = "#"
-url = "testimonial"
-weight = 5
+# [[Languages.en.menu.main]]
+# name = "Testimonial"
+# pre = "#"
+# url = "testimonial"
+# weight = 5
 
 [[Languages.en.menu.main]]
 name = "Contact"
 pre = "#"
 url = "contact"
-weight = 6
+weight = 5
 
 [[Languages.en.menu.main]]
 name = "Blog"
 url = "blog"
-weight = 7
+weight = 6
 
 
 ################################### French language #####################################
@@ -182,14 +182,14 @@ pre = "#"
 url = "portfolio"
 weight = 4
 
-[[Languages.fr.menu.main]]
-name = "Testimonial"
-pre = "#"
-url = "testimonial"
-weight = 5
+# [[Languages.fr.menu.main]]
+# name = "Testimonial"
+# pre = "#"
+# url = "testimonial"
+# weight = 5
 
 [[Languages.fr.menu.main]]
 name = "Contact"
 pre = "#"
 url = "contact"
-weight = 6
+weight = 5
