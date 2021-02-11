@@ -12,21 +12,11 @@ button:
       enable : true
       class: download-cv hvr-icon-up
       link : "mailto:thomas.martindev@gmail.com"
-      # Whatsapp
-    - label : ""
-      enable : true
-      class: download-cv hvr-icon-buzz
-      link : "https://api.whatsapp.com/send?phone=33649655776&text=Feel%20free%20to%20ask%20me%20anything%20:%27)"
       # Telegram
     - label : ""
       enable : true
       class: download-cv hvr-icon-grow
       link : "https://t.me/applinh"
-      # Phone
-    - label : ""
-      enable : true
-      class: download-cv hvr-icon-pulse
-      link : "tel:+33649655776"
       # Github
     - label : ""
       enable : true
