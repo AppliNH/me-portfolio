@@ -3,7 +3,7 @@ title : "MAIN SKILLS"
 service_list:
 # service item loop
 - name : "Golang"
-  image : "http://blog.engineering.publicissapient.fr/wp-content/uploads/2016/10/gopher.png"
+  image : "https://blog.engineering.publicissapient.fr/wp-content/uploads/2016/10/gopher.png"
   
 # service item loop
 - name : "JS / TS"
