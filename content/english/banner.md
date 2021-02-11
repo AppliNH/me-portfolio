@@ -6,9 +6,9 @@ last_name : "Martin"
 bg_image : "images/backgrounds/me-nature.jpg"
 # animated text loop
 occupations:
-- "Web Developer"
+- "FullStack Web Developer"
 - "Solution Architect"
-- "DevOps enthusiast"
+- "DevOps Enthusiast"
 - "Musician"
 - "Looking forward to work with you :)"
 
@@ -19,8 +19,9 @@ slider_images:
 # button
 button:
   enable : true
-  label : "HIRE ME"
-  link : "#contact"
+  label : "GET TO KNOW ME :) "
+  pre : "#"
+  url: "about"
 
 
 # custom style

@@ -1,10 +1,10 @@
 ---
-title : "NEED A SERVICE?"
+title : "Wanna Reach Me Out ?"
 bg_image : "images/backgrounds/need-service.jpg"
 button:
   enable : true
-  label : "SAY HELLO!"
-  link : "#contact"
+  label : "I'm open! Click here"
+  link : "mailto:thomas.martindev@gmail.com"
 
 
 # custom style

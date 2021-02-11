@@ -62,9 +62,9 @@ link = "plugins/owl-carousel/owl.carousel.min.js"
 
 #################### default parameters ################################
 [params]
-favicon = "images/favicon.png"
+favicon = "images/owl-favicon.png"
 logo_light = "images/owl-light.png"
-# logo_dark = "images/logo-dark.png"
+logo_dark = "images/owl-dark.png"
 logo_width = "70px"
 # Meta data
 description = "This is meta description"
@@ -98,7 +98,7 @@ contentDir = "content/english"
 weight = 1
 home = "Home"
 # copyright
-copyright = "Copyright &copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)"
+copyright = "Copyright &copy; 2020 a hugo theme by somrat"
 
 
 ################# english navigation ##################
@@ -116,9 +116,9 @@ url = "about"
 weight = 2
 
 [[Languages.en.menu.main]]
-name = "Service"
+name = "Skills"
 pre = "#"
-url = "service"
+url = "skills"
 weight = 3
 
 [[Languages.en.menu.main]]
@@ -133,54 +133,54 @@ weight = 4
 # url = "testimonial"
 # weight = 5
 
-[[Languages.en.menu.main]]
-name = "Contact"
-pre = "#"
-url = "contact"
-weight = 5
+# [[Languages.en.menu.main]]
+# name = "Contact"
+# pre = "#"
+# url = "contact"
+# weight = 5
 
-[[Languages.en.menu.main]]
-name = "Blog"
-url = "blog"
-weight = 6
+# [[Languages.en.menu.main]]
+# name = "Blog"
+# url = "blog"
+# weight = 6
 
 
 ################################### French language #####################################
-[Languages.fr]
-languageName = "Fr"
-languageCode = "fr-fr"
-contentDir = "content/french"
-weight = 2
-home = "Accueil"
-# copyright
-copyright = "Copyright &copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)"
+# [Languages.fr]
+# languageName = "Fr"
+# languageCode = "fr-fr"
+# contentDir = "content/french"
+# weight = 2
+# home = "Accueil"
+# # copyright
+# copyright = "Copyright &copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)"
 
 
 ################# english navigation ##################
 
 # main menu
-[[Languages.fr.menu.main]]
-name = "Home"
-url = "/"
-weight = 1
+# [[Languages.fr.menu.main]]
+# name = "Home"
+# url = "/"
+# weight = 1
 
-[[Languages.fr.menu.main]]
-name = "About me"
-pre = "#"
-url = "about"
-weight = 2
+# [[Languages.fr.menu.main]]
+# name = "About me"
+# pre = "#"
+# url = "about"
+# weight = 2
 
-[[Languages.fr.menu.main]]
-name = "Service"
-pre = "#"
-url = "service"
-weight = 3
+# [[Languages.fr.menu.main]]
+# name = "Service"
+# pre = "#"
+# url = "service"
+# weight = 3
 
-[[Languages.fr.menu.main]]
-name = "Portfolio"
-pre = "#"
-url = "portfolio"
-weight = 4
+# [[Languages.fr.menu.main]]
+# name = "Portfolio"
+# pre = "#"
+# url = "portfolio"
+# weight = 4
 
 # [[Languages.fr.menu.main]]
 # name = "Testimonial"
@@ -188,8 +188,8 @@ weight = 4
 # url = "testimonial"
 # weight = 5
 
-[[Languages.fr.menu.main]]
-name = "Contact"
-pre = "#"
-url = "contact"
-weight = 5
+# [[Languages.fr.menu.main]]
+# name = "Contact"
+# pre = "#"
+# url = "contact"
+# weight = 5

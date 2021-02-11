@@ -889,7 +889,7 @@ input:checked+label span:last-child {
 
 .about-me-images img {
   width: 100%;
-  -webkit-filter: grayscale(100%);
+  /* -webkit-filter: grayscale(100%);
   -moz-filter: grayscale(100%);
   -ms-filter: grayscale(100%);
   -o-filter: grayscale(100%);
@@ -898,16 +898,16 @@ input:checked+label span:last-child {
   -moz-transition: all linear .3s;
   -ms-transition: all linear .3s;
   -o-transition: all linear .3s;
-  transition: all linear .3s;
+  transition: all linear .3s; */
 }
 
 .about-me-images img:hover {
   width: 100%;
-  -webkit-filter: grayscale(0%);
+  /* -webkit-filter: grayscale(0%);
   -moz-filter: grayscale(0%);
   -ms-filter: grayscale(0%);
   -o-filter: grayscale(0%);
-  filter: grayscale(0%);
+  filter: grayscale(0%); */
 }
 
 .about-me .hvr-icon-hang:before {
@@ -919,6 +919,68 @@ input:checked+label span:last-child {
   top: 6px;
   font-size: 16px;
 }
+
+.about-me .hvr-icon-up:before {
+  content: "\f0e0";
+  position: absolute;
+  font-family: 'Font Awesome 5 Free';
+  right: 7px;
+  font-weight: 900;
+  top: 5px;
+  font-size: 20px;
+}
+
+
+.about-me .hvr-icon-buzz:before {
+  content: "\f232";
+  position: absolute;
+  font-family: 'Font Awesome 5 Brands';
+  right: 9px;
+  font-weight: 900;
+  top: 5px;
+  font-size: 20px;
+}
+.about-me .hvr-icon-grow:before {
+  content: "\f3fe";
+  position: absolute;
+  font-family: 'Font Awesome 5 Brands';
+  right: 9px;
+  font-weight: 900;
+  top: 5px;
+  font-size: 20px;
+}
+
+.about-me .hvr-icon-pulse:before {
+  content: "\f1e4";
+  position: absolute;
+  font-family: 'Font Awesome 5 Free';
+  right: 7px;
+  font-weight: 900;
+  top: 5px;
+  font-size: 20px;
+}
+
+.about-me .hvr-icon-rotate:before {
+  content: "\f09b";
+  position: absolute;
+  font-family: 'Font Awesome 5 Brands';
+  right: 8px;
+  font-weight: 900;
+  top: 4px;
+  font-size: 20px;
+}
+
+.about-me .hvr-icon-push:before {
+  content: "\f0e1";
+  position: absolute;
+  font-family: 'Font Awesome 5 Brands';
+  right: 8px;
+  font-weight: 900;
+  top: 4px;
+  font-size: 20px;
+}
+
+
 
 /* ========= Start Experience ======= */
 
@@ -1324,7 +1386,7 @@ ul.experience-chart h4 {
   transition: transform 0.5s, -webkit-transform 0.5s;
   overflow: hidden;
 }
-
+a img { text-decoration: none } 
 .item-caption {
   position: absolute;
   top: 24px;

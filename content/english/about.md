@@ -1,11 +1,42 @@
 ---
 title : "KNOW MORE <br> ABOUT ME"
 image : "images/backgrounds/me-guitar.jpg"
-# button
 button:
-  enable : true
-  label : "DOWNLOAD MY CV"
-  link : "#"
+  button_list:
+    - label : "MY CV"
+      enable : true
+      class: download-cv hvr-icon-hang
+      link : "#"
+      # Mail
+    - label : ""
+      enable : true
+      class: download-cv hvr-icon-up
+      link : "mailto:thomas.martindev@gmail.com"
+      # Whatsapp
+    - label : ""
+      enable : true
+      class: download-cv hvr-icon-buzz
+      link : "https://api.whatsapp.com/send?phone=33649655776&text=Feel%20free%20to%20ask%20me%20anything%20:%27)"
+      # Telegram
+    - label : ""
+      enable : true
+      class: download-cv hvr-icon-grow
+      link : "https://t.me/applinh"
+      # Phone
+    - label : ""
+      enable : true
+      class: download-cv hvr-icon-pulse
+      link : "tel:+33649655776"
+      # Github
+    - label : ""
+      enable : true
+      class: download-cv hvr-icon-rotate
+      link : "https://github.com/applinh"
+      # Linkedin
+    - label : ""
+      enable : true
+      class: download-cv hvr-icon-push
+      link : "https://www.linkedin.com/in/tmartin-me/"
 
 ########################### Experience ##############################
 experience:
@@ -14,21 +45,52 @@ experience:
   experience_list:
     # experience item loop
     - name : "R&D Engineer apprentice"
-      company : "DIVALTO"
+      company : "Divalto"
       duration : "2018-2021"
-      content : "Been working on ..."
+      content : "R&D Engineer role, working on 'out-of-the-box' projects aiming to extend the company's product (an ERP) possibilities by creating synergies with external services (Office 365, Cloud Services & more)"
       
     # experience item loop
     - name : "Co-Founder & CTO"
       company : "Primitivo"
       duration : "2019-2021"
-      content : "Graphic design is art with a purpose. I love illustration, so logo desing is my favorite work. But i can do many things with graphics."
+      content : "Co-founded my own startup with 3 associates. We focused and put in production an ecosystem of 3 products, which can be summed up as a social media around bars & pubs of Strasbourg."
       
     # experience item loop
     - name : "Apprentice Internship"
       company : "Divalto Switzerland"
       duration : "2019 (3 months)"
-      content : "Worked on dev & delivery workflows enhancement thanks to Jenkins"
+      content : "Worked on improving dev & delivery workflows using Jenkins and SVN"
+
+########################### Studies ##############################
+studies:
+  enable : true
+  title : "STUDIES"
+  experience_list:
+    # experience item loop
+    - name : "IT Engineer diploma"
+      company : "UTBM - Belfort, France"
+      content : "Complete IT engineer school curriculum. Studies made in apprenticeship @ Divalto."
+      
+      
+    # experience item loop
+    - name : "Exchange semester (Mast. CS)"
+      company : "RTU - Riga, Latvia"
+      content : "
+      . Service-Oriented Architecture
+      <br />
+      . Project Management
+      <br />
+      . Developments of Intelligent Software Systems
+      <br />
+      . Business Analytics / Data Mining
+      <br />
+      . Advanced Databases
+      "
+      
+    # experience item loop
+    - name : "Mechanical Engineering"
+      company : "INSA - Strasbourg, France"
+      content : "Lean Management, Fluid Mechanics, Thermodynamic & more"
 
 ############################### Skill #################################
 skill:
@@ -40,16 +102,19 @@ skill:
       percentage : "85%"
       
     # skill item loop
-    - name : "Solution architecture"
+    - name : "Solution Architecture"
       percentage : "80%"
       
     # skill item loop
-    - name : "Project management"
+    - name : "Project Management"
       percentage : "85%"
       
     # skill item loop
-    - name : "Mobile developement"
+    - name : "Mobile Developement"
       percentage : "70%"
+
+    - name: "Scrum (with Scrum Master experience)"
+      percentage: "80%"
 
 
 # custom style

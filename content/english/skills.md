@@ -15,11 +15,11 @@ service_list:
   
 # service item loop
 - name : "React"
-  image : "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png"
+  image : "images/icons/react.png"
   
 # service item loop
-- name : "NodeJS </br> (Express & NestJS frameworks)"
-  image : "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png"
+- name : "NestJS (NodeJS)"
+  image : "https://blog.theodo.com/static/353291819c0a67f2e7706e81aeb0ba10/50383/nest_logo.png"
   
 # service item loop
 - name : "Flutter"
@@ -31,7 +31,7 @@ service_list:
 
 # service item loop
 - name : "Kubernetes"
-  image : "https://download.logo.wine/logo/Kubernetes/Kubernetes-Logo.wine.png"
+  image : "images/icons/k8s.png"
 
 # service item loop
 - name : "Jenkins"
