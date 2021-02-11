@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://dazzling-leavitt-c6508d.netlify.app/"
 languageCode = "en-us"
 title = "Thomas M - Portfolio"
 theme = "somrat"
