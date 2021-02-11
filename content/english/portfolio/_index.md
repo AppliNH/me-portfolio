@@ -1,6 +1,6 @@
 ---
 title: "Projects"
-description: "This is meta description."
+description: "My projects"
 draft: false
 
 
