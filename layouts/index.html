@@ -247,13 +247,15 @@
         <h3>{{ .title }}</h3>
         <div class="skill-progress-bar">
           {{ range .skill_list }}
-          <div class="clearfix">
-            <span class="skillbar-title">{{ .name }}</span>
-            <span class="skill-bar-percent">{{ .percentage }}</span>
-            <div class="skillbar" data-percent="{{ .percentage }}">
+          <div class="mb-4 d-flex flex-row justify-content-between">
+            <span class="skillbar-title w-50">{{ .name }}</span>
+            <span class="skillbar-title">{{ .years }} years</span>
+            
+            <!-- <div class="skillbar" data-percent="{{ .percentage }}">
               <div class="skillbar-bar"></div>
-            </div>
+            </div> -->
           </div>
+          <hr />
           {{ end }}
         </div>
       </div>

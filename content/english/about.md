@@ -89,22 +89,22 @@ skill:
   skill_list:
     # skill item loop
     - name : "Fullstack Web Development"
-      percentage : "85%"
+      years: 3
       
     # skill item loop
     - name : "Solution Architecture"
-      percentage : "80%"
+      years: 1.5
       
     # skill item loop
     - name : "Project Management"
-      percentage : "85%"
+      years: 1.5
       
     # skill item loop
     - name : "Mobile Developement"
-      percentage : "70%"
+      years: 1.5
 
     - name: "Scrum (with Scrum Master experience)"
-      percentage: "80%"
+      years: 1.5
 
 
 # custom style

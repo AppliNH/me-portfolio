@@ -6,7 +6,7 @@ last_name : "Martin"
 bg_image : "images/backgrounds/me-nature.jpg"
 # animated text loop
 occupations:
-- "FullStack Web Developer"
+- "FullStack Web Engineer"
 - "Solution Architect"
 - "DevOps Enthusiast"
 - "Musician"
