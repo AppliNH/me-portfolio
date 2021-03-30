@@ -11,7 +11,7 @@ button:
     - label : ""
       enable : true
       class: download-cv hvr-icon-up
-      link : "mailto:thomas.martindev@gmail.com"
+      link : "mailto:tm.primitivo@protonmail.com"
       # Telegram
     - label : ""
       enable : true
