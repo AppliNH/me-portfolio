@@ -57,9 +57,9 @@ studies:
   title : "STUDIES"
   experience_list:
     # experience item loop
-    - name : "IT Engineer diploma"
+    - name : "CS Engineer diploma"
       company : "UTBM - Belfort, France"
-      content : "Complete IT engineer school curriculum. Studies made in apprenticeship @ Divalto."
+      content : "Complete CS engineer school curriculum. Studies made in apprenticeship @ Divalto."
       
       
     # experience item loop
@@ -114,7 +114,7 @@ custom_css: ""
 ---
 
 Hey and welcome !
-My name is Thomas Martin, and I'm a 23 years old freshly graduated French IT engineer.
+My name is Thomas Martin, and I'm a 23 years old freshly graduated French CS engineer.
 
 Despite my age, I have the chance to have cumulated a few years of experience during which I've been hitting my head against a lot of industry-grade concerns around web developement. 
 
