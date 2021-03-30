@@ -6,7 +6,7 @@ button:
     - label : "MY CV"
       enable : true
       class: download-cv hvr-icon-hang
-      link : "https://www.canva.com/design/DAD4rDSrsmg/E8cB2faC1lAcJKjGfPKivw/view?utm_content=DAD4rDSrsmg&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton"
+      link : "https://www.figma.com/file/JexDLm6MzDEdKbooSEtosI/RESUME-EN?node-id=0%3A1"
       # Mail
     - label : ""
       enable : true
