@@ -122,7 +122,7 @@ url = "skills"
 weight = 3
 
 [[Languages.en.menu.main]]
-name = "Portfolio"
+name = "Projects"
 pre = "#"
 url = "portfolio"
 weight = 4

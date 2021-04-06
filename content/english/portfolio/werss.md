@@ -17,10 +17,3 @@ project_info:
   content: "https://github.com/applinh/flutter-weRss"
 ---
 
-FireGo is a little Golang API which allows to dynamically create JSON documents with a NoSQL Database perspective.
-
-The API runs on port 5000, and allows you to dynamically create JSON documents in order to constitute kind of a NoSQL Database.
-
-I wrote it to be quite similar to the database service that Google offers with Firebase. It's not as sophiscated, for now.
-
-You can Read / Write / Update documents, more is coming !
