@@ -34,6 +34,35 @@ experience:
   title : "EXPERIENCE"
   experience_list:
     # experience item loop
+
+    - name: Cloud & DevOps Engineer
+      company: HARA
+      duration: March 2022 - Present
+      content: |-
+        \- **Azure Cloud & DevOps Engineer** consultant
+
+        \- Create, update and improve **Ansible playbooks & roles**
+
+        \- **Lead a migration from Tower to AWX**
+
+        \- Partcipate to meetings (english speaking) to prepare a **migration to Azure**, including **cloud architecture** tasks.
+
+        \- **Design and implementation of Jenkins pipelines** for various purposes (CI/CD, automated batch jobs, etc)
+
+        \- **Software system engineering** around a migration of bash scripts to a Python CLI (leading project, software architecture, clean code, CI/CD ...)
+
+        \- **Design new deployment methods** with a GitOps & DevOps state of mind
+
+    - name: "Web, Mobile & Ops Engineer"
+      company: "MySofie"
+      duration: Sept. 2021 - March 2022
+      content: |-
+        \- **Fullstack Web developer** (RubyOnRails & Typescript React)
+
+        \- **Mobile Software Architect** (Flutter - Dart/Kotlin/Swift), led a migration of a legacy app to Flutter, and implemented Clean Architecture from scratch.
+
+        \- **Improved CI/CD cloud deployment with DevOps philosophy** (Terraform, Ansible, Packer, Docker, Scaleway, AWS).
+
     - name : "R&D Engineer apprentice"
       company : "Divalto"
       duration : "2018-2021"
@@ -92,7 +121,11 @@ skill:
       years: 3
       
     # skill item loop
-    - name : "Solution Architecture"
+    - name : "Cloud Architecture"
+      badges: 
+        - "[![AZ-900 Certified](https://img.shields.io/badge/-AZ%20900%20Certified-blue?style=for-the-badge&logo=microsoft-azure)](https://www.credly.com/badges/a0b37337-5e0d-4074-a4c7-36ace2b3b915)"
+        - "[![CKA Certified](https://img.shields.io/badge/-CKA%20Certified-white?style=for-the-badge&logo=kubernetes)]()"
+
       years: 1.5
       
     # skill item loop
@@ -114,8 +147,10 @@ custom_css: ""
 ---
 
 Hey and welcome !
-My name is Thomas Martin, and I'm a 23 years old freshly graduated French CS engineer.
+My name is Thomas Martin, and I'm a 25 years old (graduate) French CS engineer.
 
-Despite my age, I have the chance to have cumulated a few years of experience during which I've been hitting my head against a lot of industry-grade concerns around web developement. 
+Despite my age, I have the chance to have cumulated a few years of experience during which I've been hitting my head against a lot of industry-grade concerns around web developement.
 
-All this, thanks to my 3 years apprenticeship as well as my startup experience : Primitivo 🦉
+A lot of this, thanks to my 3 years apprenticeship, my Cloud & DevOps experiences, as well as my startup experience : Primitivo 🦉
+
+I'm also [![AZ-900 Certified](https://img.shields.io/badge/-AZ%20900%20Certified-blue?style=for-the-badge&logo=microsoft-azure)](https://www.credly.com/badges/a0b37337-5e0d-4074-a4c7-36ace2b3b915) and [![CKA Certified](https://img.shields.io/badge/-CKA%20Certified-white?style=for-the-badge&logo=kubernetes)]()

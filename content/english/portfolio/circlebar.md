@@ -1,7 +1,7 @@
 ---
 title: "Circle Bar"
 date: 2019-03-12T12:14:34+06:00
-image: "https://circlebar.fr/assets/first-page.png"
+image: "images/cb-icon.png"
 categories: ["Primitivo"]
 description: "Social media built around local bars"
 draft: false
@@ -35,8 +35,6 @@ Functionalities are organized around a selection of local bars, with which the u
 
 • 🎉 Have access to quality and up-to-date data about local bars
 
-
-The app is avaible on iOS and Android stores, feel free [to checkout our website](https://circlebar.fr) !
+The app is avaible on iOS and Android stores !
 
 The products CircleBar®, Tipz® & WhiteSquirrel consitute the IVO eco-system built by Primitivo®, powering up services for local bars & pubs 👍
-
