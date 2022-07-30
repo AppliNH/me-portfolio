@@ -4,9 +4,7 @@
 {{ with .GetPage "banner" }}
 <section
   class="header {{.Params.custom_class}}"
-  {{.Params.custom_attributes
-  |
-  safeHTMLAttr}}
+  {{.Params.custom_attributes | safeHTMLAttr}}
   style="{{.Params.custom_css | safeCSS}}"
   id="home"
 >
