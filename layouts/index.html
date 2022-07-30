@@ -238,9 +238,7 @@
 {{ with .GetPage "about" }}
 <section
   class="about-me {{.Params.custom_class}}"
-  {{.Params.custom_attributes
-  |
-  safeHTMLAttr}}
+  {{.Params.custom_attributes | safeHTMLAttr}}
   style="{{.Params.custom_css | safeCSS}}"
   id="about"
 >
@@ -349,9 +347,7 @@
 {{ with .GetPage "skills" }}
 <section
   class="services {{.Params.custom_class}}"
-  {{.Params.custom_attributes
-  |
-  safeHTMLAttr}}
+  {{.Params.custom_attributes | safeHTMLAttr}}
   style="{{.Params.custom_css | safeCSS}}"
   id="skills"
 >
@@ -388,9 +384,7 @@
 <section
   id="cta"
   class="need-service overlay section-sm wow fadeInUp {{.Params.custom_class}}"
-  {{.Params.custom_attributes
-  |
-  safeHTMLAttr}}
+  {{.Params.custom_attributes | safeHTMLAttr}}
   data-wow-duration="1.5s"
   style="background-image: url('{{ .Params.bg_image | absURL }}'); {{.Params.custom_css | safeCSS}}"
 >
@@ -410,9 +404,7 @@
 {{ with .GetPage "portfolio"}}
 <section
   class="portfolio {{.Params.custom_class}}"
-  {{.Params.custom_attributes
-  |
-  safeHTMLAttr}}
+  {{.Params.custom_attributes | safeHTMLAttr}}
   style="{{.Params.custom_css | safeCSS}}"
   id="portfolio"
 >
@@ -502,9 +494,7 @@
 {{ with .GetPage "testimonial"}}
 <section
   class="testimonials {{.Params.custom_class}}"
-  {{.Params.custom_attributes
-  |
-  safeHTMLAttr}}
+  {{.Params.custom_attributes | safeHTMLAttr}}
   style="{{.Params.custom_css | safeCSS}}"
   id="testimonial"
 >
@@ -571,9 +561,7 @@
 {{ with .GetPage "contact"}}
 <section
   class="contact {{.Params.custom_class}}"
-  {{.Params.custom_attributes
-  |
-  safeHTMLAttr}}
+  {{.Params.custom_attributes | safeHTMLAttr}}
   style="background-image: url('{{.Params.bg_image | absURL}}'); {{.Params.custom_css | safeCSS}}"
   id="contact"
 >
