@@ -421,9 +421,13 @@
                 checked="checked"
               />All
             </label>
-            {{ $categories := slice }} {{ range .Data.Pages }} {{ range
-            .Params.categories }} {{ $categories = $categories | append . }} {{
-            end }} {{ end }} {{ range ( $categories | uniq ) }}
+            {{ $categories := slice }}
+            {{ range .Data.Pages }}
+            {{ range .Params.categories }}
+            {{ $categories = $categories | append . }}
+            {{ end }}
+            {{ end }}
+            {{ range ( $categories | uniq ) }}
             <label class="btn btn-sm btn-primary hvr-sweep-to-right">
               <input
                 type="radio"
