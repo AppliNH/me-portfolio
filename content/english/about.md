@@ -3,7 +3,7 @@ title : "KNOW MORE <br> ABOUT ME"
 image : "images/backgrounds/me-guitar.jpg"
 button:
   button_list:
-    - label : "MY CV"
+    - label : "MY CV (rework in progress)"
       enable : true
       class: download-cv hvr-icon-hang
       link : "https://www.figma.com/file/JexDLm6MzDEdKbooSEtosI/RESUME-EN?node-id=0%3A1"
