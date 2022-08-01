@@ -279,11 +279,9 @@
           <li>
             <div class="single-experience">
               <h4>{{ .name | markdownify }}</h4>
-              {{ with .company }} <span>{{ . | markdownify }} : </span> {{ end
-              }} {{ with .duration }} <span>{{ . | markdownify }}</span> {{ end
-              }} {{ with .content }}
-              <p>{{ . | markdownify}}</p>
-              {{ end }}
+              {{ with .company }} <span>{{ . | markdownify }} : </span> {{ end }}
+              {{ with .duration }} <span>{{ . | markdownify }}</span> {{ end }}
+              {{ with .content }} <p>{{ . | markdownify}}</p> {{ end }}
             </div>
           </li>
           {{ end }}
@@ -302,9 +300,7 @@
               <h4>{{ .name | markdownify }}</h4>
               {{ with .company }} <span>{{ . | markdownify }}</span> {{ end }}
               {{ with .duration }} <span>{{ . | markdownify }}</span> {{ end }}
-              {{ with .content }}
-              <p>{{ . | markdownify}}</p>
-              {{ end }}
+              {{ with .content }} <p>{{ . | markdownify}}</p> {{ end }}
             </div>
           </li>
           {{ end }}
