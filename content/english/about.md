@@ -149,8 +149,7 @@ custom_css: ""
 Hey and welcome !
 My name is Thomas Martin, and I'm a 25 years old (graduate) French CS engineer.
 
-Despite my age, I have the chance to have cumulated a few years of experience during which I've been hitting my head against a lot of industry-grade concerns around web developement.
-
-A lot of this, thanks to my 3 years apprenticeship, my Cloud & DevOps experiences, as well as my startup experience : Primitivo 🦉
+I'm looking forward to help companies on large-scale application topics, from cloud architecture to releases deployment enhancement, with the aim of improving product’s lifecycle. 
+Passionate about **Cloud**, **Solutions Architecture**, **Web & Mobile dev**, **DevOps philosophy**, **tech watch** and **music**.
 
 I'm also [![AZ-900 Certified](https://img.shields.io/badge/-AZ%20900%20Certified-blue?style=for-the-badge&logo=microsoft-azure)](https://www.credly.com/badges/a0b37337-5e0d-4074-a4c7-36ace2b3b915) and [![CKA Certified](https://img.shields.io/badge/-CKA%20Certified-white?style=for-the-badge&logo=kubernetes)]()
