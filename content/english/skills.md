@@ -29,7 +29,7 @@ service_list:
   # service item loop
   - name: "Flutter"
     images:
-      - "https://w7.pngwing.com/pngs/67/315/png-transparent-flutter-hd-logo-thumbnail.png"
+      - "https://www.kindpng.com/picc/m/355-3557482_flutter-logo-png-transparent-png.png"
 
   # service item loop
   - name: "Docker"
