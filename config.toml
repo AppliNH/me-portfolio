@@ -79,7 +79,7 @@ preloader = "images/preloader.gif" # use jpg, png, svg or gif format.
 
 [[params.social]]
 icon = "fab fa-twitter"
-link = "https://twitter.com/appli_prmtv"
+link = "https://twitter.com/applidoboi"
 
 [[params.social]]
 icon = "fab fa-github"
