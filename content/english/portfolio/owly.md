@@ -24,7 +24,7 @@ project_info:
   . Kubernetes"
 - name: "Project Link"
   icon: "fas fa-link"
-  content: "https://github.com/primitivo.fr/owly"
+  content: "https://github.com/primitivofr/owly"
 ---
 
 **[WORK IN PROGRESS]**
