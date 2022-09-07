@@ -1,7 +1,7 @@
 ---
 title: "Tipz"
 date: 2019-03-12T12:14:34+06:00
-image: "https://tipz.fr/assets/robin-2.png"
+image: "images/icons/tipz.png"
 categories: ["Primitivo"]
 description: "Cashless tipping webApp"
 draft: false
