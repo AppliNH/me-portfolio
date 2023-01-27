@@ -251,7 +251,7 @@
           <h1>{{ .Title | markdownify }}</h1>
           <div class="content">{{ .Content | markdownify | emojify }}</div>
           {{ with .Params.button }} {{ range .button_list }} {{ if .enable }}
-          <a href="{{ .link | absURL }}" class=" {{ .class}}">
+          <a href="{{ .link | absURL }}" target="_blank" class=" {{ .class}}">
             {{ .label }} &nbsp; &nbsp; &nbsp;</a
           >
           {{ end }} {{ end }} {{ end }}
@@ -315,18 +315,32 @@
         <div class="skill-progress-bar">
           {{ range .skill_list }}
           <div class="mb-4 d-flex flex-row justify-content-between">
-            <div>
-              <span class="skillbar-title w-50">{{ .name }}</span>
+            <div style="flex: 2;">
+              <span class="skillbar-title w-50" >{{ .name }}</span>
               {{ range .badges }}
               <span> {{ . | markdownify }}</span>
               {{ end }}
             </div>
-
-            <span class="skillbar-title">{{ .years }} years</span>
-
-            <!-- <div class="skillbar" data-percent="{{ .percentage }}">
-              <div class="skillbar-bar"></div>
-            </div> -->
+            
+            <div class="d-flex flex-column align-items-center" style="flex: 1;">
+              <span class="skillbar-title">{{ .years }} years</span>
+              <div class="d-flex flex-column align-items-center">
+                <section class="content-gauge">
+                  <div class="box gauge--1">
+                    <div class="mask">
+                      <div class="semi-circle"></div>
+                      <div style="transform: rotate({{ mul .skill.value 1.8 }}deg) translate3d(0, 0, 0);" class="semi-circle--mask"></div>
+                      
+                    </div>
+                    
+                  </div>             
+                </section>
+              
+                <div class="text-align-center">
+                  <span>{{ .skill.text }}</span>
+                </div>
+              </div>
+            </div>
           </div>
           <hr />
           {{ end }}

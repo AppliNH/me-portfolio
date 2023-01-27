@@ -6,7 +6,7 @@ button:
     - label : "MY CV"
       enable : true
       class: download-cv hvr-icon-hang
-      link : "files/resume.pdf"
+      link : "https://flowcv.com/resume/wba5w6ew3h"
       # Mail
     - label : ""
       enable : true
@@ -35,8 +35,24 @@ experience:
   experience_list:
     # experience item loop
 
-    - name: Cloud & DevOps Engineer
-      company: HARA
+    - name: Project Leader & Solution Architect
+      company: Hara
+      duration: September 2022 - Present
+      content: |-
+        \- **Product & Team management**
+
+        \- **Business, marketing & functional analysis**
+       
+        \- **Defined tech gold paths** & architecture of the whole solution
+
+        \- **Lead a dev team** around a Scrum-like methodology, with code reviews
+
+        \- Implemented **tools** to ensure **clean code and good practices** (Lint, code coverage, TDD, SOLID, Jira, vulnerability scans, IAC, etc)
+
+        \- **AWS architecture** with **optimized costs**
+
+    - name: Cloud & DevOps Engineer (contractor)
+      company: Amadeus
       duration: March 2022 - Present
       content: |-
         \- **Azure Cloud & DevOps Engineer** consultant
@@ -51,7 +67,7 @@ experience:
 
         \- **Software system engineering** around a migration of bash scripts to a Python CLI (leading project, software architecture, clean code, CI/CD ...)
 
-        \- **Design new deployment methods** with a GitOps & DevOps state of mind
+        \- **Architecture+Design & development of Deployment As Code solutions** and workflows with a GitOps & IAC approach
 
     - name: "Web, Mobile & Ops Engineer"
       company: "MySofie"
@@ -116,28 +132,41 @@ skill:
   enable : true
   title : "KNOWLEDGE"
   skill_list:
-    # skill item loop
-    - name : "Fullstack Web Development"
-      years: 3
-      
-    # skill item loop
-    - name : "Cloud Architecture"
+    - name : "Solution Architecture"
       badges: 
         - "[![AZ-900 Certified](https://img.shields.io/badge/-AZ%20900%20Certified-blue?style=for-the-badge&logo=microsoft-azure)](https://www.credly.com/badges/a0b37337-5e0d-4074-a4c7-36ace2b3b915)"
         - "[![CKA Certified](https://img.shields.io/badge/-CKA%20Certified-white?style=for-the-badge&logo=kubernetes)]()"
+      years: 3
+      skill:
+        value: 80
+        text: Skillful +
 
-      years: 1.5
-      
+    - name: "Software Architecture"
+      years: 3
+      skill:
+        value: 65
+        text: Proficient
+
     # skill item loop
-    - name : "Project Management"
-      years: 1.5
-      
+    - name : "Project & Poduct Management"
+      years: 3
+      skill:
+        value: 80
+        text: Skillful +
+    
+        # skill item loop
+    - name : "Fullstack Web Development"
+      years: 5
+      skill:
+        value: 70
+        text: Skillful
+
     # skill item loop
     - name : "Mobile Developement"
-      years: 1.5
-
-    - name: "Scrum (with Scrum Master experience)"
-      years: 1.5
+      years: 2.5
+      skill:
+        value: 60
+        text: Proficient
 
 
 # custom style
