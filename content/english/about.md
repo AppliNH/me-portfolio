@@ -43,7 +43,7 @@ experience:
 
         \- **Business, marketing & functional analysis**
        
-        \- **Defined tech gold paths** & architecture of the whole solution
+        \- **Defined technical gold paths & architecture* of the solution
 
         \- **Lead a dev team** around a Scrum-like methodology, with code reviews
 
@@ -51,23 +51,22 @@ experience:
 
         \- **AWS architecture** with **optimized costs**
 
-    - name: Cloud & DevOps Engineer (contractor)
+        \- **Defined Kubernetes alternative **architecture** for scale-up
+
+    - name: Cloud & DevOps Engineer
       company: Amadeus
       duration: March 2022 - Present
       content: |-
-        \- **Azure Cloud & DevOps Engineer** consultant
 
-        \- Create, update and improve **Ansible playbooks & roles**
+        \- **Maintaining and improving** a complete Ansible project (roles, playbooks, modules)
 
-        \- **Lead a migration from Tower to AWX**
+        \- **Led a migration from Tower to AWX**
 
-        \- Partcipate to meetings (english speaking) to prepare a **migration to Azure**, including **cloud architecture** tasks.
+        \- **Complete rework of the app deployment strategy** through the conception of Deployment As Code solutions with a GitOps & IAC state of mind
 
-        \- **Design and implementation of Jenkins pipelines** for various purposes (CI/CD, automated batch jobs, etc)
+        \- **Design & dev of SysOps tooling** (Python CLIs) with the aim of replacing bash scripts. Always following **clean code principles** (SOLID, TDD) + tools for **better maintainability** (CI/CD, code coverage, etc)
 
-        \- **Software system engineering** around a migration of bash scripts to a Python CLI (leading project, software architecture, clean code, CI/CD ...)
-
-        \- **Architecture+Design & development of Deployment As Code solutions** and workflows with a GitOps & IAC approach
+        \- **Referent of the Azure cloud architecture strategy** (in the context of a migration)
 
     - name: "Web, Mobile & Ops Engineer"
       company: "MySofie"
@@ -75,26 +74,24 @@ experience:
       content: |-
         \- **Fullstack Web developer** (RubyOnRails & Typescript React)
 
-        \- **Mobile Software Architect** (Flutter - Dart/Kotlin/Swift), led a migration of a legacy app to Flutter, and implemented Clean Architecture from scratch.
+        \- **Mobile Software Architect** (Flutter/Dart/Kotlin/Swift), led a migration of a legacy app to Flutter, and implemented Clean Architecture from scratch.
 
-        \- **Improved CI/CD cloud deployment with DevOps philosophy** (Terraform, Ansible, Packer, Docker, Scaleway, AWS).
+        \- **Performed POCs at the request of the CTO** to evaluate technologies and support strategic technical decisions
 
-    - name : "R&D Engineer apprentice"
-      company : "Divalto"
-      duration : "2018-2021"
-      content : "R&D Engineer role, working on 'out-of-the-box' projects aiming to extend the company's product (an ERP) possibilities by creating synergies with external services (Office 365, Cloud Services & more)"
-      
+        \- **Design and implementation of new deployment strategies** (CI/CD, Ansible, Terraform, Packer) and **cloud architecture** (AWS & Scaleway)
+
+        \- Work on **automated disaster recovery** processes
+
     # experience item loop
     - name : "Co-Founder & CTO"
       company : "Primitivo"
       duration : "2019-2021"
       content : "Co-founded my own startup with 3 associates. We focused and put in production an ecosystem of 3 products, which can be summed up as a social media around bars & pubs of Strasbourg."
-      
-    # experience item loop
-    - name : "Apprentice Internship"
-      company : "Divalto Switzerland"
-      duration : "2019 (3 months)"
-      content : "Worked on improving dev & delivery workflows using Jenkins and SVN"
+
+    - name : "R&D Engineer apprentice"
+      company : "Divalto"
+      duration : "2018-2021"
+      content : "R&D Engineer role, working on 'out-of-the-box' projects aiming to extend the company's product (an ERP) possibilities by creating synergies with external services (Office 365, Cloud Services & more)"
 
 ########################### Studies ##############################
 studies:
@@ -176,7 +173,7 @@ custom_css: ""
 ---
 
 Hey and welcome !
-My name is Thomas Martin, and I'm a 25 years old (graduate) French CS engineer.
+My name is Thomas Martin, and I'm a 25 years old French CS engineer.
 
 I'm looking forward to help companies on large-scale application topics, from cloud architecture to releases deployment enhancement, with the aim of improving product’s lifecycle. 
 Passionate about **Cloud**, **Solutions Architecture**, **Web & Mobile dev**, **DevOps philosophy**, **tech watch** and **music**.
