@@ -129,24 +129,24 @@ skill:
   enable : true
   title : "KNOWLEDGE"
   skill_list:
-    - name : "Solution Architecture"
+    - name : "Solution Architecture (Cloud Native & Kubernetes)"
       badges: 
         - "[![AZ-900 Certified](https://img.shields.io/badge/-AZ%20900%20Certified-blue?style=for-the-badge&logo=microsoft-azure)](https://www.credly.com/badges/a0b37337-5e0d-4074-a4c7-36ace2b3b915)"
         - "[![CKA Certified](https://img.shields.io/badge/-CKA%20Certified-white?style=for-the-badge&logo=kubernetes)]()"
-      years: 3
+      years: 4
       skill:
         value: 80
         text: Skillful +
 
     - name: "Software Architecture"
-      years: 3
+      years: 4
       skill:
         value: 65
         text: Proficient
 
     # skill item loop
     - name : "Project & Poduct Management"
-      years: 3
+      years: 4
       skill:
         value: 80
         text: Skillful +
