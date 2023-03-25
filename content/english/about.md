@@ -43,7 +43,7 @@ experience:
 
         \- **Business, marketing & functional analysis**
        
-        \- **Defined technical gold paths & architecture* of the solution
+        \- **Defined technical gold paths & architecture** of the solution
 
         \- **Lead a dev team** around a Scrum-like methodology, with code reviews
 
