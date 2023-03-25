@@ -51,7 +51,7 @@ experience:
 
         \- **AWS architecture** with **optimized costs**
 
-        \- **Defined Kubernetes alternative **architecture** for scale-up
+        \- **Defined Kubernetes** alternative **architecture** for scale-up
 
     - name: Cloud & DevOps Engineer
       company: Amadeus
