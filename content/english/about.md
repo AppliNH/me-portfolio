@@ -57,7 +57,6 @@ experience:
       company: Amadeus
       duration: March 2022 - Present
       content: |-
-
         \- **Maintaining and improving** a complete Ansible project (roles, playbooks, modules)
 
         \- **Led a migration from Tower to AWX**
@@ -86,12 +85,31 @@ experience:
     - name : "Co-Founder & CTO"
       company : "Primitivo"
       duration : "2019-2021"
-      content : "Co-founded my own startup with 3 associates. We focused and put in production an ecosystem of 3 products, which can be summed up as a social media around bars & pubs of Strasbourg."
+      content : |-
+        \- **Project manager & Solution Architect** on an ecosystem of 3 applications, targeting restaurants and bars in Strasbourg
+
+        \- Three applications put into **production**
+
+        \- Costs-optimized AWS cloud architecture
+        
+        \- **Scrum Master**, **Tech lead**, **FullStack Developer** role
+
+        \- Participation in **openSource** projects
+        
+        \- **Architecture consulting** to third parties
 
     - name : "R&D Engineer apprentice"
       company : "Divalto"
       duration : "2018-2021"
-      content : "R&D Engineer role, working on 'out-of-the-box' projects aiming to extend the company's product (an ERP) possibilities by creating synergies with external services (Office 365, Cloud Services & more)"
+      content : |-
+        \- **Design and implementation of cutting-edge features** on a legacy ERP project
+        
+        \- **Work on synergies** between the ERP and external payment services (PayPal, PayZen, Mollie, etc)
+        
+        \- **Architecture, design and implementation** (from scratch) of a complete solution involving an Outlook add-in that allows to to interact with the ERP remotely
+
+        \- **Configuration and development** (from scratch) of a complete Jennkins CI/CD (Cloud + onPremise)
+
 
 ########################### Studies ##############################
 studies:
