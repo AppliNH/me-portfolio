@@ -162,7 +162,7 @@ skill:
     - name : "Solution Architecture (Cloud Native & Kubernetes)"
       badges: 
         - "[![AZ-900 Certified](https://img.shields.io/badge/-AZ%20900%20Certified-blue?style=for-the-badge&logo=microsoft-azure)](https://www.credly.com/badges/a0b37337-5e0d-4074-a4c7-36ace2b3b915)"
-        - "[![CKA Certified](https://img.shields.io/badge/-CKA%20Certified-white?style=for-the-badge&logo=kubernetes)](https://www.credly.com/earner/earned/badge/799e4d84-183a-482c-8f8a-5c9068c41d4d)"
+        - "[![CKA Certified](https://img.shields.io/badge/-CKA%20Certified-lightblue?style=for-the-badge&logo=kubernetes)](https://www.credly.com/earner/earned/badge/799e4d84-183a-482c-8f8a-5c9068c41d4d)"
       years: 4
       skill:
         value: 85
@@ -209,4 +209,4 @@ I am dedicated to providing you with specialized expertise in areas such as depl
 
 Passionate about **Cloud**, **Solutions Architecture**, **Web & Mobile dev**, **DevOps philosophy**, **tech watch** and **music**.
 
-I'm also [![AZ-900 Certified](https://img.shields.io/badge/-AZ%20900%20Certified-blue?style=for-the-badge&logo=microsoft-azure)](https://www.credly.com/badges/a0b37337-5e0d-4074-a4c7-36ace2b3b915) and [![CKA Certified](https://img.shields.io/badge/-CKA%20Certified-white?style=for-the-badge&logo=kubernetes)](https://www.credly.com/earner/earned/badge/799e4d84-183a-482c-8f8a-5c9068c41d4d)
+I'm also [![AZ-900 Certified](https://img.shields.io/badge/-AZ%20900%20Certified-blue?style=for-the-badge&logo=microsoft-azure)](https://www.credly.com/badges/a0b37337-5e0d-4074-a4c7-36ace2b3b915) and [![CKA Certified](https://img.shields.io/badge/-CKA%20Certified-lightblue?style=for-the-badge&logo=kubernetes)](https://www.credly.com/earner/earned/badge/799e4d84-183a-482c-8f8a-5c9068c41d4d)
