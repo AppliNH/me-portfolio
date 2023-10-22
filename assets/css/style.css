@@ -17,7 +17,7 @@
   display: block;
   width: 3.125rem;
   height: 1.56rem;
-  background: linear-gradient(to right, #c0392b 0%, #f1c40f 50%, #1abc9c 100%);
+  background: linear-gradient(to right, #397ca0 0%, #2e80a7 50%, #0687e3 100%);
   border-radius: 50% 50% 50% 50%/100% 100% 0% 0%;
 }
 .semi-circle::before {
@@ -1098,16 +1098,44 @@ ul.experience-chart h4 {
   margin-top: 0;
   margin-bottom: 4px;
   font-weight: 700;
-  color: #4d4d4d;
+  color: #302f2f;
+}
+
+.experience-chart .duration {
+  font-size: 15px;
+  margin-top: 0;
+  margin-bottom: 4px;
+  font-weight: 0;
+  color: #807f7f;
+}
+
+.experience-chart .company {
+  font-size: 17px;
+  margin-top: 0;
+  margin-bottom: 4px;
+  font-weight: 700;
+  color: #302f2f;
+}
+
+.experience-chart .achievements-spoiler {
+  margin-top: 4px;
+  margin-bottom: 4px;
+}
+
+.experience-chart .achievements-spoiler-title {
+  margin-top: 10px;
+  margin-bottom: 5px;
+
+  font-weight:bold;
 }
 
 .experience-chart li span {
-  font-weight: 700;
+  font-weight: 600;
   color: #6f6f6f;
 }
 
 .experience-chart li p {
-  color: #6f6f6f;
+  color: #4f4f4f;
 }
 
 .single-experience {

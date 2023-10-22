@@ -279,13 +279,21 @@
           <li>
             <div class="single-experience">
               <h4>{{ .name | markdownify }}</h4>
-              {{ with .company }} <span>{{ . | markdownify }} : </span> {{ end }}
-              {{ with .duration }} <span>{{ . | markdownify }}</span> {{ end }}
-              {{ with .content }} <p>{{ . | markdownify}}</p> {{ end }}
+              <div>
+                {{ with .company }} <span class="company">{{ . | markdownify }}</span> · {{ end }}
+
+                {{ with .duration }} <span class="duration">{{ . | markdownify }}</span> {{ end }}
+              </div>
+              
+              <details class="achievements-spoiler">
+                <summary class="achievements-spoiler-title">Achievements</summary>
+                {{ with .content }} <p>{{ . | markdownify}}</p> {{ end }}
+              </details>
+              
             </div>
           </li>
           {{ end }}
-        </ul>
+        </ul>        
       </div>
       {{ end }} {{ end }} {{ with .Params.studies }} {{ if .enable }}
       <div

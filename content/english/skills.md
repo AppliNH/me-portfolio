@@ -4,7 +4,7 @@ service_list:
   # service item loop
   - name: "Golang"
     images:
-      - "https://blog.engineering.publicissapient.fr/wp-content/uploads/2016/10/gopher.png"
+      - "images/icons/gologo.png"
 
   # service item loop
   - name: "JS / TS"

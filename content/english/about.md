@@ -6,7 +6,7 @@ button:
     - label : "MY CV"
       enable : true
       class: download-cv hvr-icon-hang
-      link : "https://flowcv.com/resume/wba5w6ew3h"
+      link : "files/resume.pdf"
       # Mail
     - label : ""
       enable : true
@@ -35,15 +35,27 @@ experience:
   experience_list:
     # experience item loop
 
+    - name: DevSecOps Architect
+      company: Respond.io
+      duration: July 2023 - Present
+      content: |-
+        \- **In charge of the tooling strategy** to enhance platform's availability (AWS scale-in scale-out and deployment strategies)
+
+        \- **Optimized cloud costs** to save 10% monthly
+
+        \- **Architect of the IAC strategy** (Terraform, GitOps)
+
+        \- **Responsible for the platform security strategy**, focusing on audit logs and threat modeling
+
     - name: Project Leader & Solution Architect
       company: Hara
-      duration: September 2022 - Present
+      duration: September 2022 - August 2023
       content: |-
         \- **Product & Team management**
 
         \- **Business, marketing & functional analysis**
        
-        \- **Defined technical gold paths & architecture** of the solution
+        \- **Defined technical golden paths & architecture** of the solution
 
         \- **Lead a dev team** around a Scrum-like methodology, with code reviews
 
@@ -55,7 +67,7 @@ experience:
 
     - name: Cloud & DevOps Engineer
       company: Amadeus
-      duration: March 2022 - Present
+      duration: March 2022 - July 2023
       content: |-
         \- **Maintaining and improving** a complete Ansible project (roles, playbooks, modules)
 
@@ -69,7 +81,7 @@ experience:
 
     - name: "Web, Mobile & Ops Engineer"
       company: "MySofie"
-      duration: Sept. 2021 - March 2022
+      duration: August 2021 - March 2022
       content: |-
         \- **Fullstack Web developer** (RubyOnRails & Typescript React)
 
@@ -153,14 +165,14 @@ skill:
         - "[![CKA Certified](https://img.shields.io/badge/-CKA%20Certified-white?style=for-the-badge&logo=kubernetes)](https://www.credly.com/earner/earned/badge/799e4d84-183a-482c-8f8a-5c9068c41d4d)"
       years: 4
       skill:
-        value: 80
+        value: 85
         text: Skillful +
 
     - name: "Software Architecture"
       years: 4
       skill:
-        value: 65
-        text: Proficient
+        value: 70
+        text: Skillful
 
     # skill item loop
     - name : "Project & Poduct Management"
@@ -178,7 +190,7 @@ skill:
 
     # skill item loop
     - name : "Mobile Developement"
-      years: 2.5
+      years: 3
       skill:
         value: 60
         text: Proficient
@@ -191,9 +203,10 @@ custom_css: ""
 ---
 
 Hey and welcome !
-My name is Thomas Martin, and I'm a 25 years old French CS engineer.
+My name is Thomas Martin, and I'm a 26 years old French CS engineer with 5+ years of experience working on diverse projects (Web, Mobile, System, Cloud, etc). 
 
-I'm looking forward to help companies on large-scale application topics, from cloud architecture to releases deployment enhancement, with the aim of improving product’s lifecycle. 
+I am dedicated to providing you with specialized expertise in areas such as deployment strategy, release management, and optimizing your infrastructure's ability to adapt cost-effectively to current and future demands.
+
 Passionate about **Cloud**, **Solutions Architecture**, **Web & Mobile dev**, **DevOps philosophy**, **tech watch** and **music**.
 
 I'm also [![AZ-900 Certified](https://img.shields.io/badge/-AZ%20900%20Certified-blue?style=for-the-badge&logo=microsoft-azure)](https://www.credly.com/badges/a0b37337-5e0d-4074-a4c7-36ace2b3b915) and [![CKA Certified](https://img.shields.io/badge/-CKA%20Certified-white?style=for-the-badge&logo=kubernetes)](https://www.credly.com/earner/earned/badge/799e4d84-183a-482c-8f8a-5c9068c41d4d)
