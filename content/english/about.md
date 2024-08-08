@@ -46,7 +46,9 @@ experience:
 
         \- **Prevent incidents** with a on-point observability strategy (Prometheus, AlertManager, Grafana, Loki, ELK, etc)
 
-        \- **Help driving a "Platform As A Product" philosophy** through easy-to-use interfaces exposed through Helm Charts, ArgoCD actions, or Terraform modules
+        \- **Promote a "Platform as a Product" philosophy** to enhance self-service capabilities and minimize team intervention in repetitive tasks.
+        
+        \- **Enhance the Internal Developer Platform** by providing easy-to-use interfaces through Helm Charts, ArgoCD actions, custom infrastructure-orchestration APIs, and Terraform modules
 
     - name: DevSecOps Architect
       company: Respond.io
