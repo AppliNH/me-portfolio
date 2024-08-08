@@ -34,10 +34,23 @@ experience:
   title : "EXPERIENCE"
   experience_list:
     # experience item loop
+    - name: Platform Reliability Engineer
+      company: Qonto
+      duration: January 2024 - Present
+      content: |-
+        \- **Enhance platform's reliability and usability by developers** by orchestrating tools that offer observability, scaling and workload protection capabilities (Karpenter, Kyverno, Prometheus, etc) 
+      
+        \- **Eliminate toil with custom tooling (Golang)** under the form of APIs to enable self-service and Platform As A Product
+
+        \- **Reduce maintenance lead time** around our Kubernetes Apps configuration through new strategies involving Helm and ArgoCD
+
+        \- **Prevent incidents** with a on-point observability strategy (Prometheus, AlertManager, Grafana, Loki, ELK, etc)
+
+        \- **Help driving a "Platform As A Product" philosophy** through easy-to-use interfaces exposed through Helm Charts, ArgoCD actions, or Terraform modules
 
     - name: DevSecOps Architect
       company: Respond.io
-      duration: July 2023 - Present
+      duration: July 2023 - January 2024
       content: |-
         \- **In charge of the tooling strategy** to enhance platform's availability (AWS scale-in scale-out and deployment strategies)
 
@@ -49,7 +62,7 @@ experience:
 
     - name: Project Leader & Solution Architect
       company: Hara
-      duration: September 2022 - August 2023
+      duration: September 2022 - September 2023
       content: |-
         \- **Product & Team management**
 
