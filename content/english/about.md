@@ -38,7 +38,7 @@ experience:
       company: Qonto
       duration: January 2024 - Present
       content: |-
-        \- **Enhance platform's reliability and usability by developers** by orchestrating tools that offer observability, scaling and workload protection capabilities (Karpenter, Kyverno, Prometheus, etc) 
+        \- **Enhance platform's reliability and usability by developers** by orchestrating tools that offer observability, scaling and workload protection capabilities (ArgoCD, Karpenter, Kyverno, Prometheus, etc) 
       
         \- **Eliminate toil with custom tooling (Golang)** under the form of APIs to enable self-service and Platform As A Product
 
