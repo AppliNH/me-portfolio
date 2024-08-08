@@ -44,7 +44,7 @@ experience:
 
         \- **Reduce maintenance lead time** around our Kubernetes Apps configuration through new strategies involving Helm and ArgoCD
 
-        \- **Prevent incidents** with a on-point observability strategy (Prometheus, AlertManager, Grafana, Loki, ELK, etc)
+        \- **Prevent incidents and help with their mitigation** with a on-point observability strategy (Prometheus, AlertManager, Grafana, Loki, ELK, etc)
 
         \- **Promote a "Platform as a Product" philosophy** to enhance self-service capabilities and minimize team intervention in repetitive tasks.
         
