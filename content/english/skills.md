@@ -24,7 +24,7 @@ service_list:
   # service item loop
   - name: "NestJS (NodeJS)"
     images:
-      - "https://blog.theodo.com/static/353291819c0a67f2e7706e81aeb0ba10/50383/nest_logo.png"
+      - "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/NestJS.svg/621px-NestJS.svg.png"
 
   # service item loop
   - name: "Flutter"
