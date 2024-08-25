@@ -121,7 +121,7 @@ experience:
 
         \- **Designed a cost optimized AWS architecture** while taking into account scale-in to ensure the best reliability at the lowest cost.
 
-    - name : "R&D Engineer apprentice"
+    - name : "R&D Engineer"
       company : "Divalto"
       duration : "2018-2021"
       content : |-
