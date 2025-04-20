@@ -49,7 +49,7 @@ service_list:
   # service item loop
   - name: "Terraform"
     images:
-      - "https://blogs.vmware.com/cloudprovider/files/2019/04/og-image-8b3e4f7d-blog-aspect-ratio.png"
+      - "images/icons/terraform.svg"
 
   # service item loop
   - name: "Ansible"

@@ -38,17 +38,19 @@ experience:
       company: Qonto
       duration: January 2024 - Present
       content: |-
-        \- **Enhance platform's reliability, and usability for developers,** by orchestrating tools that offer observability, scaling and workload protection capabilities (ArgoCD, Karpenter, Kyverno, Prometheus, etc) 
+        Senior SRE position with responsibilities around reducing incidents MTTR and their blast radius, while improving overall platform’s reliability at low costs.
       
-        \- **Eliminate toil with custom tooling (Golang)** under the form of APIs to enable self-service and Platform As A Product
+        \- **Designed and implemented a new multi-clusters Kubernetes platform** built from the ground up with PCI-DSS compliance, high resiliency, and a comprehensive disaster recovery (DR) strategy.
 
-        \- **Reduce maintenance lead time** around our Kubernetes Apps configuration through new strategies involving Helm and ArgoCD
-
-        \- **Prevent incidents and help with their mitigation** with a on-point observability strategy (Prometheus, AlertManager, Grafana, Loki, ELK, etc)
+        \- **Led the design and implementation of Canary deployments**, enabling automatic rollbacks and significantly reducing incident MTTR and blast radius
 
         \- **Promote a "Platform as a Product" philosophy** to enhance self-service capabilities and minimize team intervention in repetitive tasks.
-        
-        \- **Enhance the Internal Developer Platform** by providing easy-to-use interfaces through Helm Charts, ArgoCD actions, custom infrastructure-orchestration APIs, and Terraform modules
+
+        \- **Reduced maintenance lead time by 60% around our Kubernetes clusters configuration** through innovative strategies involving Terraform, Helm and ArgoCD
+
+        \- **Improved developer velocity and platform reliability** through initiatives around Kubernetes deployment workflows and internal APIs; using Helm Charts, ArgoCD, custom orchestration APIs, and Terraform modules.
+
+        \- **Prevent incidents and help with their mitigation** with a on-point observability strategy (Prometheus, AlertManager, Grafana, Loki, ELK, etc)
 
     - name: DevSecOps Architect
       company: Respond.io
@@ -64,23 +66,9 @@ experience:
 
         \- **Responsible for the platform security strategy**, focusing on audit logs and threat modeling
 
-    - name: Project Leader & Solution Architect
-      company: Hara
-      duration: September 2022 - September 2023
-      content: |-
-        Architect and Project Manager on a CRM project intended for non-profits, leading a team of 3 developers.
-
-        \-**Led product developmen**t by conducting business, marketing, and functional analysis to define the roadmap.
-
-        \- **Established tech golden paths and built a dev-friendly platform** accelerating TTM while ensuring a secure and reliable solution.
-
-        \- **Mentored junior developers on software engineering principles** (DDD, TDD, SOLID, CI/CD), which elevated the overall quality of backend services.
-
-        \- **Designed a cost-effective and reliable AWS infrastructure** using React, Node.js, MongoDB, Docker, and Kubernetes.
-
     - name: Cloud & DevOps Engineer
       company: Amadeus
-      duration: March 2022 - July 2023
+      duration: September 2021 - August 2023
       content: |-
         Responsible for the app deployment strategy, Azure migration, and driving a team shift to develop reliable system-oriented tooling.
 
@@ -91,6 +79,20 @@ experience:
         \- **Led a team-shift to develop reliable system-oriented tooling**, reducing toil and mainteance lead time.
 
         \- **Provided cloud architecture guidance during a major Azure migration**, reducing risks and ensuring best practices.
+
+    - name: Project Leader & Solution Architect (Consultant)
+      company: Primitivo
+      duration: September 2022 - September 2023
+      content: |-
+        Architect and Project Manager for Hara on a CRM project intended for non-profits, leading a team of 3 developers.
+
+        \-**Led product developmen**t by conducting business, marketing, and functional analysis to define the roadmap.
+
+        \- **Established tech golden paths and built a dev-friendly platform** accelerating TTM while ensuring a secure and reliable solution.
+
+        \- **Mentored junior developers on software engineering principles** (DDD, TDD, SOLID, CI/CD), which elevated the overall quality of backend services.
+
+        \- **Designed a cost-effective and reliable AWS infrastructure** using React, Node.js, MongoDB, Docker, and Kubernetes.
 
     - name: "Solution Architect (Web, Mobile & Ops Consultant)"
       company: "Primitivo"
