@@ -2525,3 +2525,13 @@ textarea.form-control::-webkit-input-placeholder,
   object-fit: cover;
   margin-right: 10px;
 }
+
+/* misc */
+
+.company-entrepreneurship{
+  font-size: 17px;
+  margin-top: 0;
+  margin-bottom: 4px;
+  font-weight: 700;
+  color: #302f2f;
+}

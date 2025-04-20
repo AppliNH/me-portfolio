@@ -32,9 +32,10 @@ button:
 experience:
   enable : true
   title : "EXPERIENCE"
+  second_title: "ENTREPRENEURSHIP EXPERIENCE"
   experience_list:
     # experience item loop
-    - name: Platform Reliability Engineer
+    - name: Senior Platform Reliability Engineer
       company: Qonto
       duration: January 2024 - Present
       content: |-
@@ -68,7 +69,7 @@ experience:
 
     - name: Cloud & DevOps Engineer
       company: Amadeus
-      duration: 2021 - 2023
+      duration: 2021 - July 2023
       content: |-
         Responsible for the app deployment strategy, Azure migration, and driving a team shift to develop reliable system-oriented tooling.
 
@@ -80,48 +81,7 @@ experience:
 
         \- **Provided cloud architecture guidance during a major Azure migration**, reducing risks and ensuring best practices.
 
-    - name: Project Leader & Solution Architect (Consultant)
-      company: Primitivo
-      duration: September 2022 - September 2023
-      content: |-
-        Architect and Project Manager for Hara on a CRM project intended for non-profits, leading a team of 3 developers.
-
-        \-**Led product developmen**t by conducting business, marketing, and functional analysis to define the roadmap.
-
-        \- **Established tech golden paths and built a dev-friendly platform** accelerating TTM while ensuring a secure and reliable solution.
-
-        \- **Mentored junior developers on software engineering principles** (DDD, TDD, SOLID, CI/CD), which elevated the overall quality of backend services.
-
-        \- **Designed a cost-effective and reliable AWS infrastructure** using React, Node.js, MongoDB, Docker, and Kubernetes.
-
-    - name: "Solution Architect (Web, Mobile & Ops Consultant)"
-      company: "Primitivo"
-      duration: August 2021 - March 2022
-      content: |-
-        Responsible for both Dev & Ops strategy to improve products’ (web & mobile) reliability in terms of availability, costs and maintainability.
-
-        \- **Improved performance and maintainability** of a legacy Ruby on Rails app with TDD and Hexagonal Architecture.
-
-        \- **Led the migration** from native Android & iOS apps to a unified Flutter codebase, **speeding up releases**. 
-
-        \- **Prototyped cloud deployment strategies** with automated CI/CD, improving deployments efficiency and reliability.
-
-        \- **Modernized infrastructure management** using Ansible, Terraform, and Packer for better consistency.
-
-    # experience item loop
-    - name : "Co-Founder & CTO"
-      company : "Primitivo"
-      duration : "2019-2021"
-      content : |-
-        Project manager & FullStack developer on various application projects, targeting students and bars in Strasbourg.
-
-        \- **Led the products development with a tailored methodology**, and a roadmap aligned with customer needs, **that allowed us to ship 3 products into beta phase in less than 6 months**.
-
-        \- **Actively participated in software design and implementation decisions** to ensure code’s approachability and fasten releases lifecycle.
-
-        \- **Designed and maintained the developer platform** to allow to safely develop, test and ship features.
-
-        \- **Designed a cost optimized AWS architecture** while taking into account scale-in to ensure the best reliability at the lowest cost.
+    
 
     - name : "R&D Engineer"
       company : "Divalto"
@@ -134,7 +94,49 @@ experience:
         \- **Architecture, design and implementation** of a complete solution involving an Outlook add-in that allows to to interact with the ERP remotely
 
         \- **Configuration and development** (from scratch) of a complete Jennkins CI/CD (Cloud + onPremise)
+  entrepreneurship_exp_list:
+    - name: Project Leader & Solution Architect (Consultant)
+      company: Primitivo
+      duration: September 2022 - September 2023
+      intro: |-
+        Architect and Project Manager for Hara on a CRM project intended for non-profits, leading a team of 3 developers.
+      content: |-
+        \-**Led product developmen**t by conducting business, marketing, and functional analysis to define the roadmap.
 
+        \- **Established tech golden paths and built a dev-friendly platform** accelerating TTM while ensuring a secure and reliable solution.
+
+        \- **Mentored junior developers on software engineering principles** (DDD, TDD, SOLID, CI/CD), which elevated the overall quality of backend services.
+
+        \- **Designed a cost-effective and reliable AWS infrastructure** using React, Node.js, MongoDB, Docker, and Kubernetes.
+
+    - name: "Solution Architect (Web, Mobile & Ops Consultant)"
+      company: "Primitivo"
+      duration: August 2021 - March 2022
+      intro: |-
+        Responsible for both Dev & Ops strategy to improve products’ (web & mobile) reliability in terms of availability, costs and maintainability.
+      content: |-
+        \- **Improved performance and maintainability** of a legacy Ruby on Rails app with TDD and Hexagonal Architecture.
+
+        \- **Led the migration** from native Android & iOS apps to a unified Flutter codebase, **speeding up releases**. 
+
+        \- **Prototyped cloud deployment strategies** with automated CI/CD, improving deployments efficiency and reliability.
+
+        \- **Modernized infrastructure management** using Ansible, Terraform, and Packer for better consistency.
+
+    # experience item loop
+    - name : "Co-Founder & CTO"
+      company : "Primitivo"
+      duration : "2019-2021"
+      intro: |-
+        Project manager & FullStack developer on various application projects, targeting students and bars in Strasbourg.
+      content : |-
+        \- **Led the products development with a tailored methodology**, and a roadmap aligned with customer needs, **that allowed us to ship 3 products into beta phase in less than 6 months**.
+
+        \- **Actively participated in software design and implementation decisions** to ensure code’s approachability and fasten releases lifecycle.
+
+        \- **Designed and maintained the developer platform** to allow to safely develop, test and ship features.
+
+        \- **Designed a cost optimized AWS architecture** while taking into account scale-in to ensure the best reliability at the lowest cost.
 
 ########################### Studies ##############################
 studies:
