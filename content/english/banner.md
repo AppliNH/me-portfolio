@@ -6,8 +6,8 @@ last_name : "Martin"
 bg_image : "images/backgrounds/me-nature.jpg"
 # animated text loop
 occupations:
-- "FullStack Web Engineer"
 - "Solution Architect"
+- "Senior Platform Engineer"
 - "DevOps Enthusiast"
 - "Musician"
 - "Looking forward to work with you :)"
