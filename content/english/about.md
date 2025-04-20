@@ -68,7 +68,7 @@ experience:
 
     - name: Cloud & DevOps Engineer
       company: Amadeus
-      duration: September 2021 - August 2023
+      duration: 2021 - 2023
       content: |-
         Responsible for the app deployment strategy, Azure migration, and driving a team shift to develop reliable system-oriented tooling.
 
