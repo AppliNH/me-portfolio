@@ -1,5 +1,5 @@
 ---
-title : "Wanna Reach Me Out ?"
+title : "Wanna Reach Out ?"
 bg_image : "images/backgrounds/need-service.jpg"
 button:
   enable : true

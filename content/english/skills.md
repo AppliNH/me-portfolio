@@ -64,7 +64,7 @@ service_list:
   # service item loop
   - name: "gRPC"
     images:
-      - "https://blog.knoldus.com/wp-content/uploads/2020/03/grpc-icon-color.png"
+      - "https://grpc.io/img/logos/grpc-icon-color.png"
 
   # service item loop
   - name: "Microservices"
