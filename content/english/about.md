@@ -37,7 +37,7 @@ experience:
     # experience item loop
     - name: Staff Platform Reliability Engineer
       company: Qonto
-      Duration: February 2026 - Present
+      duration: February 2026 - Present
       content: |-
         Staff SRE with company-wide scope, bridging Software Engineering teams, driving deep Kubernetes/AWS expertise, and coaching teammates toward autonomy on high-impact reliability topics.
     - name: Senior Platform Reliability Engineer
