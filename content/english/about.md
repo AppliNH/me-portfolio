@@ -35,9 +35,14 @@ experience:
   second_title: "ENTREPRENEURSHIP EXPERIENCE"
   experience_list:
     # experience item loop
+    - name: Staff Platform Reliability Engineer
+      company: Qonto
+      Duration: February 2026 - Present
+      content: |-
+        Staff SRE with company-wide scope, bridging Software Engineering teams, driving deep Kubernetes/AWS expertise, and coaching teammates toward autonomy on high-impact reliability topics.
     - name: Senior Platform Reliability Engineer
       company: Qonto
-      duration: January 2024 - Present
+      duration: January 2024 - February 2026
       content: |-
         Senior SRE position with responsibilities around reducing incidents MTTR and their blast radius, while improving overall platform’s reliability at low costs.
       
